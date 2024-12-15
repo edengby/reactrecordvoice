@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactrecordvoice/static/css/main.106f5bba.css",
+    "main.js": "/reactrecordvoice/static/js/main.5ebb05c2.js",
+    "index.html": "/reactrecordvoice/index.html",
+    "main.106f5bba.css.map": "/reactrecordvoice/static/css/main.106f5bba.css.map",
+    "main.5ebb05c2.js.map": "/reactrecordvoice/static/js/main.5ebb05c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106f5bba.css",
+    "static/js/main.5ebb05c2.js"
+  ]
+}
